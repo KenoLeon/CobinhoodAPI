@@ -1,8 +1,0 @@
-Build API clients with the following features:
-- Follow the latest API documentation
-- Fetching the latest price of a token
-- Fetching the depth of a token or maintain a depth cache locally
-- Placing a LIMIT order
-- Placing a MARKET order
-- Checking an order’s status
-- Cancelling an order - Getting the list of open orders
